@@ -1,4 +1,5 @@
-<h1>ALTERACAO, vamos ver</h1>
+<h3>Sem muitas delongas esse paragrafo consta uma alteração neste FORK,como existe/há outros modulos para ser realizados e devida atenção, fica esta alteração</h3>
+<h3>Pode figurar plagio para alguns,MEU FOCO alem de contribuir e estudar e assimilar CODIGOS, Logica de programação. Obrigado!</h3>
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
