@@ -2,7 +2,7 @@
 <h3>Pode figurar plagio para alguns,MEU FOCO não é formatar README de projeto com HTML no GIT e sim estudar e assimilar CODIGOS, Logica de programação e ir adiante. Obrigado!</h3>
 <br>
 <div>Isso aqui é uma DIV</div>
-<
+
 <h2>Esse editor do GIT é muito top, hoje ainda dia 3/AGO/2024 darei uma melhorada no minha contribuição FRONT-END ao projeto, prometo!, Abraços</h2>
 <h1>
     <a href="https://www.dio.me/">
